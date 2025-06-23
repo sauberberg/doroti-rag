@@ -1,3 +1,5 @@
+pdf_lessons/
+
 # Python
 __pycache__/
 *.py[cod]
