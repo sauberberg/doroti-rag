@@ -5,3 +5,4 @@ chroma_db
 __pycache__
 bfg.jar
 *.db
+venv
