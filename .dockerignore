@@ -1,7 +1,7 @@
-venv/
-__pycache__/
+venv
+pdf_lessons
+chroma_db
 *.pyc
-pdf_lessons/
-chroma_db/
+__pycache__
 bfg.jar
-.DS_Store
+*.db
