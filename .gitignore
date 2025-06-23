@@ -19,3 +19,8 @@ venv/
 .vscode/
 .ipynb_checkpoints
 .DS_Store
+
+venv/
+pdf_lessons/
+chroma_db/
+
