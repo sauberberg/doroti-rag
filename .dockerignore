@@ -7,3 +7,4 @@ bfg.jar
 *.db
 venv
 *.pyc
+__pycache__
