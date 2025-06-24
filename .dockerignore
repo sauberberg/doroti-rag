@@ -1,6 +1,5 @@
 venv
 pdf_lessons
-chroma_db
 *.pyc
 __pycache__
 bfg.jar
