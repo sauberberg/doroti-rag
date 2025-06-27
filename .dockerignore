@@ -1,5 +1,4 @@
 venv
-pdf_lessons
 *.pyc
 __pycache__
 bfg.jar
